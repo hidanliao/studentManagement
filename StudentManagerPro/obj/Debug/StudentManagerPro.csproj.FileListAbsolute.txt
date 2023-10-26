@@ -1,0 +1,17 @@
+D:\code\C-SharpProject\StudentManagerPro\bin\Debug\StudentManagerPro.exe.config
+D:\code\C-SharpProject\StudentManagerPro\bin\Debug\StudentManagerPro.exe
+D:\code\C-SharpProject\StudentManagerPro\bin\Debug\StudentManagerPro.pdb
+D:\code\C-SharpProject\StudentManagerPro\bin\Debug\DAL.dll
+D:\code\C-SharpProject\StudentManagerPro\bin\Debug\Models.dll
+D:\code\C-SharpProject\StudentManagerPro\bin\Debug\DAL.pdb
+D:\code\C-SharpProject\StudentManagerPro\bin\Debug\Models.pdb
+D:\code\C-SharpProject\StudentManagerPro\obj\Debug\StudentManagerPro.csproj.AssemblyReference.cache
+D:\code\C-SharpProject\StudentManagerPro\obj\Debug\StudentManagerPro.Properties.Resources.resources
+D:\code\C-SharpProject\StudentManagerPro\obj\Debug\StudentManagerPro.csproj.GenerateResource.cache
+D:\code\C-SharpProject\StudentManagerPro\obj\Debug\StudentManagerPro.csproj.CoreCompileInputs.cache
+D:\code\C-SharpProject\StudentManagerPro\obj\Debug\StudentManagerPro.csproj.CopyComplete
+D:\code\C-SharpProject\StudentManagerPro\obj\Debug\StudentManagerPro.exe
+D:\code\C-SharpProject\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+D:\code\C-SharpProject\StudentManagerPro\obj\Debug\StudentManagerPro.FrmMain.resources
+D:\code\C-SharpProject\StudentManagerPro\obj\Debug\StudentManagerPro.FrmUserLogin.resources
+D:\code\C-SharpProject\StudentManagerPro\obj\Debug\StudentManagerPro.FrmAddStudent.resources
